@@ -8,8 +8,9 @@
 
   <h1>Elfsight Widget Test Page</h1>
 
-  <div class="elfsight-app-fe4a209a-9898-463e-ab28-bf52c8631892"></div>
-  <script src="https://static.elfsight.com/platform/platform.js" async></script>
+<!-- Elfsight Event Calendar | Untitled Event Calendar -->
+<script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-fe4a209a-9898-463e-ab28-bf52c8631892" data-elfsight-app-lazy></div>
 
 </body>
 </html>
