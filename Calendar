@@ -2,16 +2,14 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Elfsight Widget Test</title>
 </head>
 <body>
 
   <h1>Elfsight Widget Test Page</h1>
 
-<!-- Elfsight Event Calendar | Untitled Event Calendar -->
-<script src="https://static.elfsight.com/platform/platform.js" async></script>
-<div class="elfsight-app-fe4a209a-9898-463e-ab28-bf52c8631892" data-elfsight-app-lazy></div>
+  <div class="elfsight-app-fe4a209a-9898-463e-ab28-bf52c8631892"></div>
+  <script src="https://static.elfsight.com/platform/platform.js" async></script>
 
 </body>
 </html>
